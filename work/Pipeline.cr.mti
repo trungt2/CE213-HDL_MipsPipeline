@@ -1,0 +1,150 @@
+C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Mem.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Mem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mem
+
+Top level modules:
+	Mem
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/adder.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/imem.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/imem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module imem
+
+Top level modules:
+	imem
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/IF.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/IF.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegFe
+
+Top level modules:
+	RegFe
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/WB.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/WB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module WB
+
+Top level modules:
+	WB
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/dmem.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/dmem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module dmem
+
+Top level modules:
+	dmem
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Fetch.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Fetch.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Fetch
+
+Top level modules:
+	Fetch
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/Hazard.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/Hazard.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HazardUnit
+
+Top level modules:
+	HazardUnit
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/IDEX.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/IDEX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegDe_Ex
+
+Top level modules:
+	RegDe_Ex
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/MipsPipeline/cpu.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/MipsPipeline/cpu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Ex.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Ex.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Ex
+
+Top level modules:
+	Ex
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/ExMem.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/ExMem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegEx_Mem
+
+Top level modules:
+	RegEx_Mem
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/IFID.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/IFID.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegFe_De
+
+Top level modules:
+	RegFe_De
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/signextend.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/signextend.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module signextend
+
+Top level modules:
+	signextend
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/mux.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/mux.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2_32bits
+-- Compiling module mux3_32bits
+
+Top level modules:
+	mux2_32bits
+	mux3_32bits
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/Alu.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/Alu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Alu
+
+Top level modules:
+	Alu
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Control.v {1 {vlog -work work {C:\Users\trant\OneDrive\Desktop\Class\HDL\DoAn\PipelineMips\PipelineStage\Control.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/MemWB.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/MemWB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegMem_WB
+
+Top level modules:
+	RegMem_WB
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Testbench/tb_cpu.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Testbench/tb_cpu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_cpu
+
+Top level modules:
+	tb_cpu
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Decode.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Decode.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Decode
+
+Top level modules:
+	Decode
+
+} {} {}} C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/regfile.v {1 {vlog -work work C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/regfile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}}

@@ -1,0 +1,435 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\altera\13.0sp1
+vadder
+Z1 !s100 T:6396K>cUhDQUnMhicSd0
+Z2 ImhHalF:PO[8]_Gfm_RIl_3
+Z3 VMEd9gPfA;E0NE^OYPKUe12
+Z4 dC:\Users\trant\OneDrive\Desktop\Class\HDL\DoAn\work
+Z5 w1701599589
+Z6 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/adder.v
+Z7 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/adder.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/adder.v|
+Z10 o-work work -O0
+Z11 !s108 1702217036.047000
+Z12 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vAlu
+Z13 !s100 ?WlVXADoj[Em1;Mann12b2
+Z14 IFfPHOLNbeMOHRTBDL`Qih2
+Z15 VQ3OA]0_o@`jl721g^?2402
+R4
+Z16 w1701611993
+Z17 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/Alu.v
+Z18 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/Alu.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/Alu.v|
+R10
+n@alu
+Z20 !s108 1702217036.104000
+Z21 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/Alu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol
+Z22 !s100 KQ_NCCTlcK8SoCUZ13=M]0
+Z23 I0Ul19ZGkJWGF<fmnMWC>_1
+Z24 VH9^S5QXE46:eIM^CdMGzo0
+R4
+Z25 w1701951766
+Z26 8C:\Users\trant\OneDrive\Desktop\Class\HDL\DoAn\PipelineMips\PipelineStage\Control.v
+Z27 FC:\Users\trant\OneDrive\Desktop\Class\HDL\DoAn\PipelineMips\PipelineStage\Control.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:\Users\trant\OneDrive\Desktop\Class\HDL\DoAn\PipelineMips\PipelineStage\Control.v|
+R10
+Z29 !s108 1702217036.707000
+Z30 !s107 C:\Users\trant\OneDrive\Desktop\Class\HDL\DoAn\PipelineMips\PipelineStage\Control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcpu
+Z31 !s100 zH?L0>B]^dcXfWLNR47V11
+Z32 IWJNNWnnSIRcB<z]Yo:<4n3
+Z33 VdMGOioInc<bWk5>E=bA;T2
+R4
+Z34 w1702011030
+Z35 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/MipsPipeline/cpu.v
+Z36 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/MipsPipeline/cpu.v
+L0 1
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/MipsPipeline/cpu.v|
+R10
+Z38 !s108 1702217035.999000
+Z39 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/MipsPipeline/cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDecode
+Z40 !s100 ^?zC;hQi_U]267mAf7lzm2
+Z41 IU0`2iLD0dB[K:URNfCWY[1
+Z42 V6i4A3D6[CC9G6I>mQF:X83
+R4
+Z43 w1702140577
+Z44 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Decode.v
+Z45 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Decode.v
+L0 1
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Decode.v|
+R10
+Z47 n@decode
+Z48 !s108 1702217036.757000
+Z49 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Decode.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdmem
+Z50 !s100 6HUH@jHn`lWUEaVPWVibg3
+Z51 IPWO0M]b=T^BfSBSn0@5<e3
+Z52 V577?ncHmR4Q_oC>QgAKS71
+R4
+Z53 w1702216688
+Z54 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/dmem.v
+Z55 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/dmem.v
+L0 1
+R8
+r1
+31
+Z56 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/dmem.v|
+R10
+Z57 !s108 1702217036.151000
+Z58 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/dmem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEx
+Z59 !s100 bj6N@HX@S:65;mZ2CCbkC2
+Z60 IDm[lfkKlTl]b5?HO:R^Db1
+Z61 V2H60jGm<P:LATG;G[?F?X3
+R4
+Z62 w1701661096
+Z63 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Ex.v
+Z64 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Ex.v
+L0 1
+R8
+r1
+31
+Z65 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Ex.v|
+R10
+n@ex
+Z66 !s108 1702217036.808000
+Z67 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Ex.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFetch
+Z68 !s100 Z2;d78>5P8CO]=>cYUz520
+Z69 IP_]lH[MgfoAQi2kBAGRn61
+Z70 VQeOIb`M^8BN9J<lILGF0U1
+R4
+Z71 w1701663522
+Z72 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Fetch.v
+Z73 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Fetch.v
+L0 1
+R8
+r1
+31
+Z74 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Fetch.v|
+R10
+Z75 n@fetch
+Z76 !s108 1702217036.856000
+Z77 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Fetch.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHazardUnit
+Z78 !s100 oE2hX<SnCHlTK1hf;^1:l0
+Z79 ID7M2lg1VJk0kkdh^ehPZj0
+Z80 VNmUmD8SdaO3nY=OXh1GT]3
+R4
+Z81 w1702010853
+Z82 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/Hazard.v
+Z83 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/Hazard.v
+L0 1
+R8
+r1
+31
+Z84 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/Hazard.v|
+R10
+Z85 n@hazard@unit
+Z86 !s108 1702217036.461000
+Z87 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/Hazard.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vimem
+Z88 !s100 HjE:?H=gDK]b<@>hYFhiU2
+Z89 IOng5gDoX:GLlomNSn3I`=3
+Z90 VKzK_g^;2NZbGfzjW]l1F[2
+R4
+Z91 w1701607260
+Z92 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/imem.v
+Z93 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/imem.v
+L0 1
+R8
+r1
+31
+Z94 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/imem.v|
+R10
+Z95 !s108 1702217036.201000
+Z96 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/imem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMem
+Z97 !s100 D=X29L1l>Md3HmPN00?IT2
+Z98 I;02aO1J9l03fg>bMPSA;b2
+Z99 VO>?Ld3FnA[=XHVB:7Z>Qi2
+R4
+Z100 w1701619453
+Z101 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Mem.v
+Z102 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Mem.v
+L0 1
+R8
+r1
+31
+Z103 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Mem.v|
+R10
+n@mem
+Z104 !s108 1702217036.907000
+Z105 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/Mem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2_32bits
+Z106 !s100 IWk_^igg=0_D2KD=zgAli0
+Z107 IKT`1`zBFkf3^;G7hHNF8[2
+Z108 V7dH2z`EVNQoW068kaUQl@3
+R4
+Z109 w1701599444
+Z110 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/mux.v
+Z111 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/mux.v
+L0 1
+R8
+r1
+31
+Z112 !s108 1702217036.250000
+Z113 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/mux.v|
+Z114 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/mux.v|
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vmux3_32bits
+Z115 !s100 [2^f9>AhRKCC>U2ImOf4J1
+Z116 I?9][1c8k?FZZdHF]`96kI0
+Z117 VT9<3We=L7DWTjFbjmBa883
+R4
+R109
+R110
+R111
+L0 11
+R8
+r1
+31
+R112
+R113
+R114
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vRegDe_Ex
+Z118 !s100 WX_4l^QGhdCW>3U^n4V:b3
+Z119 I_GHc2k;Oek9[2bJ0zTCCJ0
+Z120 VD5]WcSzagY?70oTD^9Fel1
+R4
+Z121 w1701661423
+Z122 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/IDEX.v
+Z123 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/IDEX.v
+L0 1
+R8
+r1
+31
+Z124 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/IDEX.v|
+R10
+Z125 n@reg@de_@ex
+Z126 !s108 1702217036.510000
+Z127 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/IDEX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegEx_Mem
+Z128 !s100 zj0cbVXc3N>giab?7G3:?0
+Z129 I`Q9fUG0a^dcgNkO:1@aRX1
+Z130 VmN6X7WmnCZ@dm1i6zBUXH1
+R4
+Z131 w1701656939
+Z132 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/ExMem.v
+Z133 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/ExMem.v
+L0 1
+R8
+r1
+31
+Z134 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/ExMem.v|
+R10
+Z135 n@reg@ex_@mem
+Z136 !s108 1702217036.413000
+Z137 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/ExMem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegFe
+Z138 !s100 26B<bDCLeQTGXl@aLZDd03
+Z139 Ii6;>7a<m5SDd]Kcmmjkm62
+Z140 V<iL^7<4J=L1Jc2VC3ke2]1
+R4
+Z141 w1701876591
+Z142 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/IF.v
+Z143 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/IF.v
+L0 1
+R8
+r1
+31
+Z144 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/IF.v|
+R10
+Z145 n@reg@fe
+Z146 !s108 1702217036.557000
+Z147 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/IF.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegFe_De
+Z148 !s100 7L<2m7Ank5CMo[X0ZT<SU1
+Z149 Ih8_7>3EigGUg5D]GbeE^F1
+Z150 V2K]HYd]2lb@aOjG<Nc4GC2
+R4
+Z151 w1702007992
+Z152 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/IFID.v
+Z153 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/IFID.v
+L0 1
+R8
+r1
+31
+Z154 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/IFID.v|
+R10
+Z155 n@reg@fe_@de
+Z156 !s108 1702217036.607000
+Z157 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/IFID.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregfile
+Z158 !s100 :A_J3B0`lE<zMJkkz>?0d3
+Z159 IF=;i?[]a?:z9_JcJkKY[N3
+Z160 VEh`L<<jNgYHY4zzeC81B:2
+R4
+Z161 w1702011815
+Z162 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/regfile.v
+Z163 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/regfile.v
+L0 1
+R8
+r1
+31
+Z164 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/regfile.v|
+R10
+Z165 !s108 1702217036.315000
+Z166 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/regfile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegMem_WB
+Z167 !s100 f:J>3TMcG9SnmI0KZLdg21
+Z168 IjARK4?zIUz88>F3MH2Ohf2
+Z169 V]54GWIBBN@Td:I`BVUI];2
+R4
+Z170 w1701659020
+Z171 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/MemWB.v
+Z172 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/MemWB.v
+L0 1
+R8
+r1
+31
+Z173 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/MemWB.v|
+R10
+Z174 n@reg@mem_@w@b
+Z175 !s108 1702217036.655000
+Z176 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineReg/MemWB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsignextend
+Z177 !s100 :T`nPL;g`7Xg:RWcO_I?X2
+Z178 IbPCk>Cf[JNf4WTZIm8DDI1
+Z179 V2gc>iR0COgOR5O70h>C=C3
+R4
+Z180 w1701599967
+Z181 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/signextend.v
+Z182 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/signextend.v
+L0 1
+R8
+r1
+31
+Z183 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/signextend.v|
+R10
+Z184 !s108 1702217036.360000
+Z185 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Modules/signextend.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_cpu
+!i10b 1
+!s100 ef<lKl@Ya5D`P2_eEM7660
+I<Gi4hnA8Y;o4Qn=f@a_aX3
+Z186 VPN]lzjfoWdi66akK?R2l:3
+R4
+w1702217029
+Z187 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Testbench/tb_cpu.v
+Z188 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Testbench/tb_cpu.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1702217037.015000
+!s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Testbench/tb_cpu.v|
+Z189 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/Testbench/tb_cpu.v|
+!s101 -O0
+R10
+vWB
+Z190 !s100 oAOCOjRnKGHIED;fdgQ`n3
+Z191 If]mdOloo09A4HzkJWHBbT1
+Z192 V8b_l1>dMV<NMH=Z=heCIL0
+R4
+Z193 w1701612387
+Z194 8C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/WB.v
+Z195 FC:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/WB.v
+L0 1
+R8
+r1
+31
+Z196 !s90 -reportprogress|300|-work|work|C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/WB.v|
+R10
+n@w@b
+!i10b 1
+!s85 0
+Z197 !s108 1702217036.963000
+Z198 !s107 C:/Users/trant/OneDrive/Desktop/Class/HDL/DoAn/PipelineMips/PipelineStage/WB.v|
+!s101 -O0
